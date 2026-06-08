@@ -1,5 +1,5 @@
 # AI-Health-Assistant
-# 🏥 AI Health Assistant
+#  AI Health Assistant
 
 **A standalone, offline AI agent for symptom checking and lab report interpretation**  
 *University of Engineering and Technology, Taxila*  
@@ -8,7 +8,7 @@
 
 ---
 
-## 📌 Overview
+##  Overview
 
 The AI Health Assistant is a rule‑based system that helps users:
 - **Check symptoms** (e.g., fever, cough, fatigue) and get possible disease matches along with self‑care advice.
@@ -18,18 +18,18 @@ It runs entirely **offline**, requires **no internet** (after loading the page),
 
 ---
 
-## ✨ Features
+##  Features
 
-- ✅ Symptom‑based disease detection (11 common conditions: flu, UTI, migraine, diabetes, etc.)
-- ✅ Lab test analysis (30+ parameters: glucose, cholesterol, vitamin D, TSH, liver enzymes, etc.)
-- ✅ Personalised dietary & lifestyle advice
-- ✅ Responsive web interface (works on desktop and mobile)
-- ✅ History of past analyses (saved in browser localStorage)
-- ✅ No external APIs – pure Python + HTML/CSS/JS
+- Symptom‑based disease detection (11 common conditions: flu, UTI, migraine, diabetes, etc.)
+- Lab test analysis (30+ parameters: glucose, cholesterol, vitamin D, TSH, liver enzymes, etc.)
+- Personalised dietary & lifestyle advice
+- Responsive web interface (works on desktop and mobile)
+- History of past analyses (saved in browser localStorage)
+- No external APIs – pure Python + HTML/CSS/JS
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ### Prerequisites
 - Windows (7/10/11) with **Python 3.7+** installed.  
